@@ -4,6 +4,7 @@ This project's aim is to develop a CO2 IoT meter.
 At the moment the first logical step is to test the 
 sensor in a breadboard with minimum materials. 
 
+
 The overall learning outcomes of the project are:
 * Proper use of git (branches, commits, documentation)
 * C/C++ development
