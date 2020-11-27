@@ -1,0 +1,5 @@
+/Users/andres/repos/home-Co2/Software/cmake-build-uno/CMakeFiles/rebuild_cache.dir
+/Users/andres/repos/home-Co2/Software/cmake-build-uno/CMakeFiles/edit_cache.dir
+/Users/andres/repos/home-Co2/Software/cmake-build-uno/CMakeFiles/Z_DUMMY_TARGET.dir
+/Users/andres/repos/home-Co2/Software/cmake-build-uno/CMakeFiles/Debug.dir
+/Users/andres/repos/home-Co2/Software/cmake-build-uno/CMakeFiles/Production.dir
