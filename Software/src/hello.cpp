@@ -57,9 +57,10 @@ void printMessage(uint8_t *message, int bytes) {
         Serial.print(" ppm\n");
     }
 }
-void resetAnswer(uint8_t * x){
+
+void resetAnswer(uint8_t *x) {
     for (int i = 0; i < 9; ++i) {
-        x[i]=0;
+        x[i] = 0;
     }
 }
 
@@ -91,6 +92,6 @@ void loop() // run over and over
         Serial.print(" ");
     }
     Serial.print('\n');
-    printMessage(answer,9);
+    printMessage(answer, 9);
     delay(1000);
 }
