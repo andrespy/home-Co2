@@ -1,0 +1,8 @@
+Cable Azul:  RxSensor ->Conectado al pin D8 (nº15) de micro que se corresponde con el Tx
+Cable Verde: TxSensor ->Conectado al pin D7 (nº13) de micro que se corresponde con el Rx
+
+Cuenta Adafruit wifi:
+usurname: jplazarenas
+contraseña: pruebaco2_123
+
+Nombre del feed: co2_concentracion
